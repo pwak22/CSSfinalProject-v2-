@@ -1,0 +1,747 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+*{
+    font-family: "Poppins", sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: 0;
+
+}
+
+header{
+
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ),url("../images/bg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 695px;
+    width: 100%;
+    background-position: center;
+
+
+}
+
+
+    /* ------------------- MY NAV ITEMS START ------------------- */
+
+.title-one a {
+    color: #fff;
+    text-decoration: none;
+}
+
+
+
+
+.nav-items a {
+    display: block;
+    text-decoration: none;
+    font-size: 18px;
+    color: #fff;
+}
+
+.title-two h2 {
+    font-weight: 200;
+    color: #fff;
+}
+
+.title-two a {
+    text-decoration: none;
+}
+
+.title{
+    width: 50%;
+    height: 100px;
+}
+
+.title-cont {
+    width: 58%;
+    height: 44%;
+}
+
+.nav-items{
+    width: 50%;
+    height: 60px;
+}
+
+.items-cont{
+    width: 90%;
+}
+
+a.contact {
+    border: 1px solid #fff;
+    width: 93px;
+    height: 42px;
+    border-radius: 38px;
+}
+
+
+    /* ------------------- MY NAV ITEMS END ------------------- */
+
+
+    /* ------------------- MY OPENING ITEMS START ------------------- */
+
+.items{
+    width: 35%;
+}
+
+
+
+.opn-title h1{
+
+    color: #ffff;
+    
+}
+
+.opn-parg p{
+
+    color: #ffffff5c;
+    width: 58%;
+    
+}
+
+.ask-for-price {
+    width: 100%;
+}
+
+.ask-for-price a{
+
+    color: #d32721;
+    text-decoration: none;
+    background-color: #fff;
+    padding: 13px;
+    margin: 13px;
+    border-radius: 64px;
+    display: block;
+    width: 100%;
+    
+}
+
+
+.watch-video {
+    width: 100%;
+}
+
+.watch-video a{
+
+    color: #ffff;
+    text-decoration: none;
+    padding: 13px;
+    margin: 13px;
+    border-radius: 64px;
+    display: block;
+    width: 100%;
+    border: 2px solid #ffff;
+    
+    
+}
+
+.watch-video img {
+    margin: 0px 20px 1px 0px;
+}
+
+.opening {
+    height: 375px;
+}
+
+.mouse-cont {
+    height: 170px;
+}
+
+.mouse {
+    height: 15%;
+}
+
+.mouse img{
+    display: block;
+    height: 40px;
+    width: 30px;
+    opacity: 0.5;
+}
+
+.mouse a{
+
+    color: #fff6;
+    text-decoration: none;
+
+}
+
+.mouse p{
+    margin-top: 14px;
+}
+
+
+/* ------------------- MY OPENING ITEMS END ------------------- */
+
+
+/* ------------------- MY MENU ITEMS START ------------------- */
+
+
+
+         /* ----------- MY ICON ITEMS START --------- */
+
+
+.icon-session-cont {
+    background-color: #eae8e8;
+}
+
+.icon-sesion{
+    height: 400px;
+}
+
+.from-air {
+    display: inline-block;
+    width: 30%;
+    height: 350px;
+}
+
+.from-air img{
+
+    display: block;
+    margin: 0 auto;
+    height: 63px;
+    margin-top: 25px;
+
+}
+
+.from-air h3 {
+    text-align: center;
+    margin-top: 22px;
+    color: #ca0034;
+}
+
+.from-air p {
+    text-align: center;
+    margin-top: 9px;
+    color: #000000;
+    width: 67%;
+}
+
+
+.best-drones {
+    display: inline-block;
+    width: 30%;
+    height: 350px;
+}
+
+.best-drones img{
+
+    display: block;
+    margin: 0 auto;
+    height: 100px;
+
+}
+
+.best-drones h3 {
+    text-align: center;
+    margin-top: 11px;
+    color: #ca0034;
+}
+
+.best-drones p {
+    text-align: center;
+    margin-top: 9px;
+    color: #000000;
+    width: 67%;
+}
+
+
+.speed {
+    display: inline-block;
+    width: 30%;
+    height: 350px;
+}
+
+.speed img{
+
+    display: block;
+    margin: 0 auto;
+    height: 87px;
+
+}
+
+.speed h3 {
+    text-align: center;
+    margin-top: 22px;
+    color: #ca0034;
+}
+
+.speed p {
+    text-align: center;
+    margin-top: 9px;
+    color: #000000;
+    width: 67%;
+}
+
+
+.long-range {
+    display: inline-block;
+    width: 30%;
+    height: 350px;
+}
+
+.long-range img{
+
+    display: block;
+    margin: 0 auto;
+    height: 87px;
+
+}
+
+.long-range h3 {
+    text-align: center;
+    margin-top: 22px;
+    color: #ca0034;
+}
+
+.long-range p {
+    text-align: center;
+    margin-top: 9px;
+    color: #000000;
+    width: 67%;
+}
+
+
+
+
+.btn-cont{
+    height: 100px;
+}
+
+.btn-cont button {
+    width: 180px;
+    height: 41px;
+    border-radius: 48px;
+    background-color: #4762a9;
+    color: #ffff;
+    border: 2px solid #4762a9;
+}
+
+        /* ---------- MY ICONS ITEMS END ------------ */
+
+
+
+
+
+        /* ---------- MY INFO ITEMS START ------------ */
+
+
+.info-section{
+
+    height: 550px;
+
+}
+
+.info-number {
+    width: 100%;
+}
+
+.infro-header-cont{
+    height: 200px;
+    display: inline-block;
+    width: 51%;
+}
+
+.info-header {
+    display: inline-block;
+    width: 95%;
+}
+
+.info-header h1 {
+    margin: 0 0 0 15px;
+    color: #ca0034;
+}
+
+.info-header p {
+
+    font-size: 13px;
+    margin: 0;
+}
+
+
+.info-items {
+    height: 600px;
+    width: 950px;
+}
+
+.drone {
+    width: 25%;
+    height: 600px;
+}
+
+.info-title {
+    width: 93%;
+}
+
+.info-title h1 {
+    margin: 0 auto;
+    width: 96%;
+    color: #ca0034;
+}
+
+.info-title p {
+    width: 90%;
+}
+
+.box-one {
+    height: 290px;
+    width: 86%;
+}
+
+.numer-one {
+    margin: 0 auto;
+    width: 86%;
+}
+
+.one.d-flex.justify-content-center.align-items-center {
+    width: 10%;
+    border: 2px solid #292525;
+    border-radius: 34px;
+    height: 50px;
+    margin-right: 11px;
+}
+
+.numer-one p {
+    font-size: 13px;
+    width: 80%;
+    margin: 0;
+    margin-bottom: 20px;
+}
+
+.numer-two {
+    margin: 0 auto;
+    width: 86%;
+    height: 27%;
+}
+
+.two {
+    width: 10%;
+    border: 2px solid #292525;
+    border-radius: 34px;
+    height: 50px;
+    margin-right: 11px;
+}
+
+.numer-two p {
+    font-size: 13px;
+    width: 80%;
+    margin-bottom: 20px;
+}
+
+.numer-three {
+    margin: 0 auto;
+    width: 86%;
+}
+
+.three.d-flex.justify-content-center.align-items-center {
+    width: 10%;
+    border: 2px solid #292525;
+    border-radius: 34px;
+    height: 50px;
+    margin-right: 11px;
+}
+
+.numer-three p {
+    font-size: 13px;
+    width: 78%;
+    margin-bottom: 20px;
+}
+
+
+
+
+.box-two {
+
+    /* background-color: rgb(35, 36, 37); */
+    height: 183px;
+    width: 49%;
+
+}
+
+.four-five {
+    height: 88%;
+    margin-top: 13px;
+}
+
+
+.numer-four {
+    width: 86%;
+    height: 48%;
+}
+
+.four.d-flex.justify-content-center.align-items-center {
+    width: 17%;
+    border: 2px solid #292525;
+    border-radius: 34px;
+    height: 50px;
+    margin-right: 11px;
+}
+
+.numer-four p {
+    font-size: 13px;
+    width: 64%;
+}
+
+.numer-five {
+    width: 139%;
+}
+
+.five {
+    width: 11%;
+    border: 2px solid #292525;
+    border-radius: 34px;
+    height: 50px;
+    margin-right: 11px;
+}
+
+.numer-five p {
+    font-size: 13px;
+    width: 62%;
+}
+
+
+.drone-cont {
+    z-index: -1;
+}
+
+
+.drone-cont img {
+    height: 450px;
+}
+
+
+
+
+        /* ---------- MY INFO ITEMS END ------------ */
+
+
+
+
+            /* ---------- MY FOTO ITEMS START ------------ */
+
+
+.foto-top{
+
+    height: 645px;
+    width: 100%;
+
+}
+
+.foto-items {
+    width: 100%;
+}
+
+.foto-img{
+
+    background-image: url("../images/foto-top.png");
+    background-size: cover;
+    height: 100%;
+    display: block;
+    background-repeat: no-repeat;
+    width: 100%;
+
+}
+
+/* .foto-img .span {
+    height: 7%;
+    background-color: black;
+    border: 1px solid #ffff;
+    background-image: url("../images/play.png");
+} */
+
+.foto-des {
+    width: 100%;
+    height: 100%;
+}
+
+
+.play-btn img {
+    display: block;
+    height: 37%;
+    width: 38%;
+    margin-left: 7px;
+}
+
+
+.play-btn {
+    border: 2px solid #ffff;
+    border-radius: 55px;
+    width: 9%;
+    height: 10%;
+    background-color: #ffffff59;
+    
+}
+
+
+.desc-items {
+    width: 80%;
+}
+
+.desc-items h2 {
+
+    color: #ca0034;
+
+}
+
+
+.foto-bottom{
+
+    height: 645px;
+    width: 100%;
+
+}
+
+
+.bottom-img {
+
+    width: 50%;
+    height: 100%;
+    
+
+}
+
+.bottom-items {
+
+    width: 50%;
+    height: 100%;
+
+}
+
+.bottom-img{
+
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.2) ),url("../images/foto-bottom.png");
+    background-size: cover;
+    height: 100%;
+    display: block;
+    background-repeat: no-repeat;
+    width: 100%;
+
+}
+
+
+
+
+
+
+
+            /* ---------- MY FOTO ITEMS END ------------ */
+
+
+
+.newsletter {
+    height: 450px;
+    /* background-image: linear-gradient(0),url("../images/zigzag.png"); */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: linear-gradient(to right, #c20034db, #e06c03bd), url("../images/zigzag.png")
+}
+
+.sign-up h2{
+    color: #ffff;
+}
+
+/* .input-sec {
+    width: 30%;
+    height: 11%;
+}
+
+.input {
+    width: 60%;
+    height: 80%;
+    border-radius: 33px;
+    border: 0px;
+    opacity: 0.5;
+}
+
+::placeholder {
+    color: rgb(237, 231, 231);
+    font-weight : 800;
+    opacity : 1;
+}
+
+button.btn {
+    background-color: #ffff;
+    width: 20%;
+    border-radius: 25px;
+    margin-left: -62px;
+    height: 81%;
+} */
+
+.input-sec{
+
+    width: 30%;
+    max-width: 100%;
+    position: relative;
+
+
+}
+
+.input-sec input {
+    width: 64%;
+    background: rgba(255, 255, 255, 0.3);
+    border-radius: 20px;
+    padding: 1rem 2rem;
+    border: 0px;
+    height: 65%;
+}
+
+.input-sec button {
+    background-color: #ffff;
+    border-radius: 50px;
+    height: 65%;
+
+    aspect-ratio: 1;
+    position: absolute;
+    right: 82px;
+    width: 18%;
+    color: #d7342b;
+}
+
+.input-sec button:hover {
+    background-color: #e85014c0;
+    color: rgb(21, 20, 20);
+}
+  
+
+input[type=email]{
+    background-color: #ffffff6d;
+}
+
+::placeholder{
+    color: #ffff;
+}
+
+.maps {
+    width: 100%;
+    height: 500px;
+}
+
+.maps p {
+    width: 100%;
+    height: 100%;
+}
+
+
+iframe {
+    width: 100%;
+    height: 100%;
+}
+
+.footer{
+    height: 300px;
+    width: 100%;
+}
+
+.footer p {
+    width: 47%;
+}
+
+
+
+
+
+
+
+
+
+/* ------------------- MY MENU ITEMS END ------------------- */
